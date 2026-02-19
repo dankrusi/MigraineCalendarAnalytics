@@ -4,13 +4,16 @@ A simple personal dashboard for tracking migraine patterns from a public Google 
 
 ## Screenshot
 
-<!-- Replace this with your real screenshot path -->
-![App Screenshot](./docs/screenshot-placeholder.png)
+![App Screenshot](./images/screenshot1.png)
 
-## Use
+![App Screenshot](./images/screenshot2.png)
+
+## Usage
 
 Visit [dankrusi.github.io/MigraineCalendarAnalytics](https://dankrusi.github.io/MigraineCalendarAnalytics) to use the app.
 All data downloaded and stored locally in your browser.
+
+You can also download the app as a standalone HTML file and just open it in your browser from your disk.
 
 ## What this app does
 
